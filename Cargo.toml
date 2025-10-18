@@ -2,5 +2,7 @@
 name = "dummy-trusted"
 version = "0.1.0"
 edition = "2024"
+license-file = "LICENSE"
+description = " A repository/crate for testing trusted publishing to crates.io "
 
 [dependencies]
